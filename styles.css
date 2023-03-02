@@ -1,0 +1,13 @@
+.bg-image {
+  background-image: url(images/Header-llustration-desktop.svg);
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+  padding: 18% 15%;
+  height: 80vw;
+  width: 100vw;
+  margin-top: -25vw;
+}
+
+.hero-title {
+  margin-top: 25vw;
+}
